@@ -1,0 +1,34 @@
+Exercises:
+
+1.6) Social medias: telegram, Facebook,WhatsApp...
+Bank application: Halyk,Jusan,Kaspi.kz...
+Other: Wikipedia,Spotify, a etc.
+
+1.7)
+  1.DBMS manages databases, file-processing system manages files.
+  2.Data redundancy: In DBMS no redundant data unlike the File System
+  3. Security problems: level of security mechanism provided and possessed by DBMS is more, by  F-p. System – less;
+  4.Recovery or backup of data: data or information is lost, DBMS provides the recovery and backup procedure of data, F-p. System – no;
+
+1.8
+Physical Data Independence is defined as the ability to make changes in the structure of the lowest level of the Database Management System (DBMS) 
+without affecting the higher-level schemes. 
+
+1.9
+1)store data : problems with storing and retrieving data
+2)security : access private data for all users
+3)data redundancy:  unnecessarily redundant data 
+4)relational data model: it would be difficult to read data without tables.
+5) Data abstraction: it would show details of storage for users who doesn't need to be aware of this complexity
+
+
+1.11) Transaction-management component ensures that the database remains in a consistent state despite system failures  and transaction failures.
+
+
+1.15) Table1(User) 
+R =(Id,name,email,Phone,Country,followers,subscriber)
+
+Table2(Users) R= (Id,name,email)
+
+Table3(News) 
+R= (Country,recommendations,language,subscriber)
